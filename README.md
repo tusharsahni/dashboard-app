@@ -9,8 +9,7 @@ This project is a replication of the dashboard design provided in the assignment
 4. [Approach](#approach)
 5. [Challenges Faced](#challenges-faced)
 6. [Assumptions Made](#assumptions-made)
-7. [How to Run the Project](#how-to-run-the-project)
-8. [Screenshots](#screenshots)
+
 
 ---
 
