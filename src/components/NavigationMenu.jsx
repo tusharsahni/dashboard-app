@@ -7,7 +7,7 @@ const NavigationMenu = () => {
        @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
     </style>
       <h2 className="text-3xl font-bold font-poppins  mr-4 ml-16 mt-4 mb-4">
-        <img src="/logo.png"/>
+        <a href="/"> <img src="/logo.png  "/> </a>
       </h2>
       <ul className="space-y-2 p-6 f font-poppins text-base">
         {[
