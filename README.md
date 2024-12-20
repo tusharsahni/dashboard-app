@@ -76,9 +76,4 @@ This dashboard replicates the provided design, ensuring all visible components a
 
 ---
 
-## How to Run the Project
 
-1. **Clone the Repository**
-   ```bash
-   git clone <repository-url>
-   cd <repository-folder>
